@@ -37,3 +37,6 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# Articles
+- [【Nuxt】Nuxt 3 を要素別に学ぶ：ページ構成・レイアウト・データ取得の基本](https://qiita.com/Yasushi-Mo/items/8da27370715f90cecd33)
